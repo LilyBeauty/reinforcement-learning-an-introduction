@@ -1,0 +1,18 @@
+cliff_walking
+
+Tensor Sarsa, dims: 2
+architecture (from left to right): {4, 12}
+isColumnMajor: 0
+> > > > > > > > > > V V
+> ^ ^ > ^ ^ > ^ > > > V
+^ ^ > < < > ^ ^ < > > V
+^ . . . . . . . . . . G
+
+Tensor Q-learning, dims: 2
+architecture (from left to right): {4, 12}
+isColumnMajor: 0
+^ > > > > ^ > > > V > V
+V V V > > V V > V > > V
+> > > > > > > > > > > V
+^ . . . . . . . . . . G
+

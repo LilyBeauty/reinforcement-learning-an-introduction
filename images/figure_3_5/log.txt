@@ -1,0 +1,10 @@
+grid world
+
+Tensor v, dims: 2
+architecture (from left to right): {5, 5}
+isColumnMajor: 0
+     22    24.4      22    19.4    17.5 
+   19.8      22    19.8    17.8      16 
+   17.8    19.8    17.8      16    14.4 
+     16    17.8      16    14.4      13 
+   14.4      16    14.4      13    11.7 
